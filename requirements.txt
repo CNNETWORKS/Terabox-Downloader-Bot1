@@ -1,8 +1,6 @@
-uvloop
+Pyrogram==2.0.106
+TgCrypto
+aiohttp
+yt-dlp
 requests
-aria2p
-git+https://github.com/Hrishi2861/pyrofork-2.2.11-peer-fix.git
 python-dotenv
-pytz
-tgcrypto
-flask
