@@ -4,5 +4,4 @@ aiohttp
 yt-dlp
 requests
 python-dotenv
-aria2p
-Flask
+Flask  # For web dashboard (optional)
